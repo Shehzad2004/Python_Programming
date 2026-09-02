@@ -1,0 +1,21 @@
+{
+  "next_account": 1002,
+  "accounts": {
+    "1001": {
+      "name": "Shehzad Ahmad",
+      "pin": "1f74494f923e9bf4bedc9968f0418824c2b298bd83009812a45e547f6733ac7b",
+      "balance": 13000.0,
+      "type": "Current",
+      "created": "2026-09-02 17:59:01",
+      "transactions": [
+        {
+          "time": "2026-09-02 17:59:01",
+          "type": "OPEN",
+          "amount": 13000.0,
+          "balance": 13000.0,
+          "note": "Account opened"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "next_id": 2,
+  "budgets": {},
+  "records": [
+    {
+      "id": 1,
+      "type": "Expense",
+      "amount": 15000.0,
+      "category": "Food",
+      "note": "",
+      "date": "2026-09-02",
+      "created": "2026-09-02 18:04:46"
+    }
+  ]
+}
